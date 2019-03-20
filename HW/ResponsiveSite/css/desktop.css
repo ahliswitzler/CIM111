@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css?family=Nothing+You+Could+Do');
+@import url('https://fonts.googleapis.com/css?family=Nanum+Pen+Script|Pacifico');
+
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  width: 100%;
+  height: auto;
+  background-color: gainsboro;
+  color: Black;
+  margin: 0 auto;
+}
+nav{
+    width: 400px;
+    font-size: 20px;
+    height: 30px;
+    text-align: center;
+    background-color: Darkseagreen;
+    margin: 0 auto; }
+
+body{
+     background-color: Black;
+     font-family: 'Nanum Pen Script', cursive;
+     font-size: 15px;
+      color: white;
+   }
+h1{
+  font-family: 'Nothing You Could Do', cursive;
+}
+
+#centerPromo{
+  text-align: center;
+  font-size: 40px;
+}
+
+
+
+main{
+  width: 80%;
+  height: auto;
+  background-color: Black;
+  margin: 0 auto;
+}
+footer{
+  width: 100%;
+  height: 20px;
+  margin: 0 auto;
+  background-color: gainsboro;
+  color: Black;
+  text-align: center;
+}
+
+#grid1{
+  display: grid;
+  grid-template-row: 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  text-align: center;
+  margin-bottom: 20px;
+  background-color: Black;
+  Color: white;
+
+}
+
+#grid2{
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-row-gap: 20px;
+  grid-column-gap: 20px;
+  margin-bottom: 20px;
+
+}
+
+#grid3{
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-row-gap: 20px;
+  grid-column-gap: 20px;
+  margin-bottom: 20px;
+}
+
+#grid4{
+  display: grid;
+  grid-template-row: 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  text-align: center;
+  margin-bottom: 20px;
+  background-color: Black;
+  Color: white;
+
+}
+
+#grid5
+{display: grid;
+grid-template-row: 1fr;
+grid-template-columns: 1fr 1fr 1fr;
+text-align:center;
+grid-row-gap: 20px;
+grid-column-gap: 20px;
+margin-bottom: 20px;
+color: white;}
+
+.imageGallery{
+  width: 80%;
+  margin: 0 auto;
+
+}
