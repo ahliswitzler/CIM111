@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Julius+Sans+One');
+@import url('https://fonts.googleapis.com/css?family=Assistant:200');
+@import url('https://fonts.googleapis.com/css?family=Barrio');
+h1{
+font-family: 'Barrio', cursive;
+  text-align: center;
+  margin-top: 50px;
+  color: black;
+  margin-bottom: 50px;
+  margin-left: 5px;
+  font-size: 70px;
+  font-weight: 100;
+  text-decoration: underline;
+}
+
+Body{
+font-family: 'Assistant', sans-serif;
+font-size: 20px;
+text-align: left;
+position: relative;
+margin: 0;
+height: 100%;
+background-color: white;
+}
