@@ -1,0 +1,70 @@
+@import "desktop.css";
+
+
+
+
+#rightColumn{
+  width: 100%;
+  height: auto;
+  display:block;
+  background-color: white;
+  opacity:
+  top: 0px;
+  text-align: center;
+  margin-bottom: 50px;
+  margin-left: 5px;
+  margin-right: 5px;
+
+}
+#leftcolumn{
+  height: 1000px;
+  width: 20%;
+  opacity: .2;
+  background-color: white;
+  top: 0px;
+  left: 0px;
+  display:block;
+}
+
+#grid1{
+  display: block;
+}
+#grid3{
+  display: block;
+
+}
+#grid4{
+  display: block;
+
+}
+nav{
+  Color: black;
+  margin-top: 20px;
+  text-decoration-style: dotted;
+}
+li{
+  list-style-type: none;
+  display: block;
+  text-align: center;
+}
+
+li a{
+  color: black;
+  text-decoration: none;
+}
+
+h1{
+font-family: 'Londrina Sketch', cursive;
+  text-align: center;
+  margin-top: 50px;
+  color: black;
+  margin-bottom: 50px;
+  margin-left: 5px;
+  font-size: 70px;
+  text-transform: full-width;
+}
+#underline{
+  color: black;
+  text-decoration: underline;
+  text-decoration-style:dotted;
+}
